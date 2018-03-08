@@ -1,0 +1,12 @@
+---
+name: Open XDMoD
+description: |-
+  XD Metrics on Demand, a tool from the University at Buffalo Center for
+  Computational Research (CCR) provides HPC center personnel and senior
+  leadership with the ability to easily obtain detailed operational metrics
+  of HPC systems coupled with extensive analytical capability to optimize
+  performance at the system and job level, ensure quality of service,
+  and provide accurate data to guide system upgrades and acquisitions.
+url: https://xdmod.osc.edu/
+category: Jobs
+subcategory: Metrics
